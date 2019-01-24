@@ -4,8 +4,6 @@
 
 #### It is only valuable for learning, but not for applying. So do some other projects in my github.
 
-#### This program 
-
 #### At the first page you can choose a function you need.It includes a clock with clock pointers，a digital clock and a alarm-clock.
 
 ![image](https://github.com/TongJiayan/simple-clock/blob/master/images/1.png)
