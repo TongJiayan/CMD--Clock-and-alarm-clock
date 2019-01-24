@@ -10,7 +10,7 @@
 
 #### It is a dynamic digital clock and you can transfer to the clock with clock pointers by inputting 'K' ,turn to home page by inputting 'B' and shut down the music by inputting 'S'.
 
-![image](https://github.com/TongJiayan/simple-clock/blob/master/images/2.png)
+![image](https://github.com/TongJiayan/simple-clock/blob/master/images/2.png =400*500)
 
 ![image](https://github.com/TongJiayan/simple-clock/blob/master/images/4.png)
 
