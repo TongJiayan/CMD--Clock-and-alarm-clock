@@ -10,15 +10,15 @@
 
 #### It is a dynamic digital clock and you can transfer to the clock with clock pointers by inputting 'K' ,turn to home page by inputting 'B' and shut down the music by inputting 'S'.
 
-<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/2.png" width=400>
+<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/2.png" width=600>
 
-<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/4.png" width=400>
+<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/4.png" width=600>
 
 #### When you choose 3,it will turn to an alarm-clock. You can add or delete a record
 
-<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/5.png" width=400>
+<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/5.png" width=600>
 
-<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/6.png" width=400>
+<img src="https://github.com/TongJiayan/simple-clock/blob/master/images/6.png" width=600>
 
 #### More information can be found in document "report-clock.pdf" or contact me by e-mail（joeytong03@gmail.com） 
 
